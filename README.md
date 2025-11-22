@@ -1,29 +1,18 @@
 # SQL Learning Repository
 
-A simple and complete SQL learning repository containing exercises, solutions, a cheat sheet, and a sample database to practice SQL for data analytics and interviews.
+This repository contains simple SQL practice materials to help you learn SQL step by step.
 
-## 📂 Contents
-- **cheatsheet.md** – Quick SQL commands reference  
-- **exercises/** – SQL practice questions  
-- **solutions/** – Answers to exercises  
-- **sample_db/** – Sample database (tables + sample data)  
-- **LICENSE** – MIT License  
+## Contents
+- SQL Cheat Sheet  
+- SQL Exercises  
+- SQL Solutions  
+- Sample Database (tables + sample data)
 
-## 🚀 How to Use
-1. Clone the repo:  
-   `git clone https://github.com/anushayaligar/SQL--Learning.git`
-2. Import the sample database from:  
-   `sample_db/sample_db.sql`
-3. Solve questions in:  
-   `exercises/exercises.sql`
-4. Check answers in:  
-   `solutions/solutions.sql`
+## How to Use
+1. Clone the repo  
+2. Import the sample database  
+3. Try solving the exercises  
+4. Check the solutions for reference
 
-## 🧠 Skills Covered
-SELECT • WHERE • ORDER BY • GROUP BY • HAVING • JOINS • Subqueries • Aggregations
-
-## 🎯 Goal
-Learn SQL faster with hands-on practice and simple structured exercises.
-
-## 📄 License
-MIT License
+## Purpose
+To practice SQL for data analysis, interviews, and real-world problem solving.
